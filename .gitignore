@@ -1,0 +1,16 @@
+# SVN
+.svn/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Compiled files
+bin/
+
+
