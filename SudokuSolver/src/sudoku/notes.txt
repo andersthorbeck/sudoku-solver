@@ -1,0 +1,1 @@
+Maybe make decisions into commands, which can be undone, put on stack, etc, later.
